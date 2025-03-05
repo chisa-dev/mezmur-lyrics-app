@@ -1,4 +1,4 @@
-# Flutter Song Lyrics App
+# Mezmur Lyrics App
 
 A Flutter application for managing song lyrics with Firebase integration and an Admin Portal for easy management of song data.
 
